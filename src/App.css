@@ -4,13 +4,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /*font-family: 'Lexend Deca', sans-serif;*/
+    /* font-family: 'Lexend Deca', sans-serif; */
     font-family: 'Urbanist', sans-serif;
 }
-
-
-/*// thapa technical SUBSCRIBE*/
-
 html{
     font-size: 62.5%;
 }
@@ -85,9 +81,9 @@ form input{
     letter-spacing: .06rem;
     font-weight: bold;
 }
-input.no-focus {
+/* input.no-focus {
   pointer-events: none;
-}
+} */
 
 form button{
     padding: .8rem 2.8rem;
