@@ -10,8 +10,6 @@
 html{
     font-size: 62.5%;
 }
-
-
 a{
     text-decoration: none;
 }
@@ -29,13 +27,13 @@ main {
     margin-top: 10rem;
 }
 
-main h2{
-    font-size: 3rem;
+main h1{
+    font-size: 05vmin;
     font-family: 'Lexend Deca', sans-serif;
     margin-bottom: 4.8rem;
 }
 
-main h2 .icons{
+main h1 .icons{
     color: #68B984;
 }
 
@@ -44,7 +42,7 @@ main h2 .icons{
 /*====================*/
 
 nav{
-    width:55rem ;
+    width:80vmin ;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -52,7 +50,7 @@ nav{
 }
 
 nav a{
-    font-size: 2rem;
+    font-size:2rem;
     font-family: 'Lexend Deca', sans-serif;
     color: #ccc;
     border-bottom: .3rem solid transparent;
@@ -74,16 +72,16 @@ nav a.active {
 form input{
     border: .1rem solid #ccc;
     border-radius: .3rem;
-    width: 45rem;
+    width: 60vmin;
     margin: 4rem 0;
     padding: .6rem 1rem;
     font-size: 1.6rem;
     letter-spacing: .06rem;
     font-weight: bold;
 }
-/* input.no-focus {
+input.no-focus {
   pointer-events: none;
-} */
+}
 
 form button{
     padding: .8rem 2.8rem;
